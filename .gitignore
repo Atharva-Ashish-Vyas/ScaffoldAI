@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/scaffoldai.sqlite3*
+data/course_notes/raw/
+data/pedagogy_datasets/
+results/
+*.log
+
