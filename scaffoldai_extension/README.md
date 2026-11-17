@@ -1,0 +1,1 @@
+ScaffoldAI ML extension is implemented in ../app and ../static. It uses the three runtime roles Course Retrieval, Error Diagnosis and Socratic Hint, with deterministic validation, storage, and grading services.
